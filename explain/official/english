@@ -1,1 +1,29 @@
-tes
+1. Android.Riskware.TestKey.rA
+- Category: Riskware
+- Description: This is a type of riskware that may not be directly harmful but can create security vulnerabilities on an Android device. It may collect sensitive data or act as a backdoor for other malware.
+- Danger: Medium to low, as it doesn’t actively function as malware but could increase risk if other malware is installed.
+- Attack Time: Not immediate, but could become an issue if exploited by other malware.
+
+2.AdLibrary
+- Category: Adware
+- Description: This type of software is designed to aggressively display ads, often without user consent. While it doesn’t directly damage the system, it can disrupt the user experience and collect browsing data.
+- Danger: Medium, as it is more intrusive and can affect user privacy.
+- Attack Time: Typically immediate, with impacts felt as soon as it is installed.
+
+3.A.privacy.BankAnubisTrojan
+- Category: Trojan
+- Description: This is a type of Trojan designed to steal financial information, such as banking data. It may disguise itself as a legitimate app or be used to access sensitive data without the user’s knowledge.
+- Danger: High, as it can steal personal and financial information and potentially cause financial loss.
+- Attack Time: Immediate, as it can start stealing information right after installation.
+
+4.Android.PUA.DebugKey
+- Category: PUA (Potentially Unwanted Application)
+- Description: This type of application may not be harmful but can be disruptive or damaging by displaying ads or collecting data without proper consent.
+- Danger: Medium to low, depending on the actions of the app and how much it disrupts or collects data.
+- Attack Time: Not immediate, more of an annoyance than an active attack.
+
+Risk Summary:
+
+High Risk: A.privacy.BankAnubisTrojan
+Medium Risk: Android.Riskware.TestKey.rA, AdLibrary, Android.PUA.DebugKey
+Low Risk: Android.Riskware.TestKey.rA, Android.PUA.DebugKey
