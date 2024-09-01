@@ -1,1 +1,67 @@
-tes
+1. PUP/Android.Malct.1018863
+• Kategori: Potentially Unwanted Program (PUP)
+• Deskripsi: Program yang mungkin tidak diinginkan dan dapat berpotensi mengganggu sistem atau privasi.
+• Bahaya: Menengah. Meskipun tidak selalu berbahaya, PUP dapat memperlambat perangkat atau mengumpulkan data pengguna tanpa izin.
+• Waktu Serangan: Biasanya, efeknya terasa langsung setelah instalasi.
+• Resiko: Menengah. Berpotensi mengganggu tetapi tidak selalu merusak data atau sistem secara serius.
+
+2. Android Abused Certificate (PUA)
+• Kategori: Potentially Unwanted Application (PUA)
+• Deskripsi: Aplikasi yang menggunakan sertifikat yang disalahgunakan atau tidak valid untuk mengelabui pengguna.
+• Bahaya: Menengah hingga tinggi. Dapat memungkinkan aplikasi untuk melakukan aktivitas yang tidak diinginkan atau berbahaya di latar belakang.
+• Waktu Serangan: Biasanya langsung setelah aplikasi diinstal.
+• Resiko: Menengah hingga tinggi. Berpotensi menyebabkan kerusakan atau kebocoran data 
+
+3. Other.Reputation.2
+• Kategori: Android Reputation
+• Deskripsi: Aplikasi dengan reputasi buruk atau yang telah dilaporkan mengandung masalah keamanan.
+• Bahaya: Menengah. Reputasi buruk dapat menunjukkan potensi risiko terhadap privasi atau keamanan.
+• Waktu Serangan: Efek dapat langsung terasa jika aplikasi berbahaya diinstal.
+• Resiko: Menengah. Potensi bahaya tergantung pada jenis aplikasi dan bagaimana ia digunakan.
+
+4. AppRisk
+• Kategori: Generic Riskware
+• Deskripsi: Aplikasi yang dikategorikan sebagai risiko generik, mungkin berisi perilaku yang mencurigakan.
+• Bahaya: Menengah. Risiko dapat bervariasi tergantung pada fungsionalitas aplikasi.
+• Waktu Serangan: Biasanya efeknya terasa langsung setelah instalasi.
+• Resiko: Menengah. Berpotensi menyebabkan gangguan, tetapi tidak selalu berbahaya.
+
+5. Android.Riskware.TestKey.rA
+• Kategori: Riskware
+• Deskripsi: Aplikasi yang menggunakan kunci debug yang dapat mengindikasikan potensi risiko.
+• Bahaya: Menengah hingga tinggi. Kunci debug dapat mengindikasikan aplikasi yang mungkin tidak aman.
+• Waktu Serangan: Biasanya efeknya terasa langsung jika aplikasi dengan kunci debug diinstal.
+• Resiko: Menengah hingga tinggi. Berpotensi menyebabkan kerusakan atau kebocoran data pribadi.
+
+6. Android.PUA.DebugKey
+• kategori: Potentially Unwanted Application (PUA)
+• Deskripsi: Aplikasi yang menggunakan kunci debug, sering kali digunakan untuk tujuan pengujian dan mungkin tidak aman.
+• Bahaya: Menengah hingga tinggi. Kunci debug dapat memungkinkan akses yang tidak sah ke perangkat.
+• Waktu Serangan: Biasanya langsung setelah instalasi aplikasi.
+• Resiko: Menengah hingga tinggi. Berpotensi menyebabkan kebocoran data atau akses yang tidak sah.
+
+7. AdLibrary
+• Kategori: Generic Ad Library
+• Deskripsi: Perpustakaan iklan yang mungkin mengumpulkan data pengguna tanpa izin.
+• Bahaya: Menengah. Dapat melibatkan pengumpulan data pribadi atau iklan yang mengganggu.
+• Waktu Serangan: Efek dapat langsung terasa jika aplikasi dengan perpustakaan ini digunakan.
+• Resiko: Menengah. Potensi risiko tergantung pada bagaimana data dikumpulkan dan digunakan.
+
+8. Trojan-Spy.AndroidOS.Agent
+• Kategori: Trojan Spy
+• Deskripsi: Trojan yang dirancang untuk mencuri informasi pribadi dan data sensitif dari perangkat Android.
+• Bahaya: Tinggi. Dapat mencuri data pribadi, seperti kredensial login, dan informasi sensitif lainnya.
+• Waktu Serangan: Biasanya langsung setelah infeksi.
+• Resiko: Tinggi. Berisiko tinggi karena dapat menyebabkan pencurian identitas dan kerugian finansial.
+
+9. Trojan/Sabsik.FL.A!ml
+• Kategori: Trojan Script
+• Deskripsi: Skrip berbahaya yang dapat mengeksploitasi kerentanan dan melaksanakan aktivitas berbahaya.
+• Bahaya: Tinggi. Dapat menyebabkan kerusakan serius dan akses tidak sah ke sistem.
+• Waktu Serangan: Biasanya langsung setelah eksekusi skrip.
+• Resiko: Tinggi. Dapat menyebabkan kerusakan sistem dan pencurian data.
+
+Kesimpulan:
+• Paling Bahaya: Trojan-Spy.AndroidOS.Agent, Trojan/Sabsik.FL.A!ml
+• Menengah Bahaya: PUP/Android.Malct. 1018863, Android Abused Certificate (PUA), Other .Reputation.2, AppRisk, Android.Riskware.TestKey.rA, Android.PUA.DebugKey, AdLibrary
+• Kurang Bahaya: Android.Riskware.TestKey.rA, Android.PUA.DebugKey
