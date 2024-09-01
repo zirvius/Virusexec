@@ -1,1 +1,68 @@
-tes
+1. PUP/Android.Malct.1018863
+• Category: Potentially Unwanted Program (PUP)
+• Description: A program that may not be wanted and has the potential to disrupt your system or privacy.
+• Danger: Medium. Although not always harmful, PUPs can slow down your device or collect user data without permission.
+• Attack Time: Usually, the effects are felt immediately after installation.
+• Risk: Medium. Potentially disruptive but not always seriously damaging to data or the system.
+
+2. Android Abused Certificate (PUA)
+• Category: Potentially Unwanted Application (PUA)
+• Description: An application that uses a misused or invalid certificate to deceive users.
+• Danger: Medium to high. Can allow the app to perform unwanted or harmful activities in the background.
+• Attack Time: Usually immediately after the app is installed.
+• Risk: Medium to high. Can potentially cause damage or data leakage.
+
+3. Other.Reputation.2
+• Category: Android Reputation
+• Description: Apps with a bad reputation or those reported to have security issues.
+• Danger: Medium. A bad reputation can indicate potential risks to privacy or security.
+• Attack Time: Effects can be felt immediately if a harmful app is installed.
+• Risk: Medium. The potential danger depends on the type of app and how it is used.
+
+4. AppRisk
+• Category: Generic Riskware
+• Description: Apps categorized as generic riskware, may contain suspicious behavior.
+• Danger: Medium. Risk can vary depending on the app's functionality.
+• Attack Time: Usually the effects are felt immediately after installation.
+• Risk: Medium. Can potentially cause disruptions but is not always harmful.
+
+5. Android.Riskware.TestKey.rA
+• Category: Riskware
+• Description: Apps that use debug keys which may indicate potential risks.
+• Danger: Medium to high. Debug keys can indicate an app that may not be secure.
+• Attack Time: Usually the effects are felt immediately if an app with a debug key is installed.
+• Risk: Medium to high. Can potentially cause damage or leak personal data.
+
+6. Android.PUA.DebugKey
+• Category: Potentially Unwanted Application (PUA)
+• Description: Apps that use debug keys, often used for testing purposes and may not be secure.
+• Danger: Medium to high. Debug keys can allow unauthorized access to the device.
+• Attack Time: Usually immediately after app installation.
+• Risk: Medium to high. Can potentially lead to data leaks or unauthorized access.
+
+7. AdLibrary
+• Category: Generic Ad Library
+• Description: Ad libraries that may collect user data without permission.
+• Danger: Medium. Can involve the collection of personal data or intrusive ads.
+• Attack Time: Effects can be felt immediately if an app with this library is used.
+• Risk: Medium. Potential risk depends on how data is collected and used.
+
+8. Trojan-Spy.AndroidOS.Agent
+• Category: Trojan Spy
+• Description: A Trojan designed to steal personal information and sensitive data from Android devices.
+• Danger: High. Can steal personal data such as login credentials and other sensitive information.
+• Attack Time: Usually immediately after infection.
+• Risk: High. High risk as it can lead to identity theft and financial loss.
+
+9. Trojan/Sabsik.FL.A!ml
+• Category: Trojan Script
+• Description: A malicious script that can exploit vulnerabilities and perform harmful activities.
+• Danger: High. Can cause serious damage and unauthorized access to the system.
+• Attack Time: Usually immediately after script execution.
+• Risk: High. Can cause system damage and data theft.
+
+Conclusion:
+• Most Dangerous: Trojan-Spy.AndroidOS.Agent, Trojan/Sabsik.FL.A!ml
+• Medium Danger: PUP/Android.Malct. 1018863, Android Abused Certificate (PUA), Other .Reputation.2, AppRisk, Android.Riskware.TestKey.rA, Android.PUA.DebugKey, AdLibrary
+• Less Dangerous: Android.Riskware.TestKey.rA, Android.PUA.DebugKey
+
