@@ -1,29 +1,99 @@
-1. Android.Riskware.TestKey.rA
-- Category: Riskware
-- Description: This is a type of riskware that may not be directly harmful but can create security vulnerabilities on an Android device. It may collect sensitive data or act as a backdoor for other malware.
-- Danger: Medium to low, as it doesn’t actively function as malware but could increase risk if other malware is installed.
-- Attack Time: Not immediate, but could become an issue if exploited by other malware.
+https://vt.tiktok.com/ZSYVXBgbD/
+https://vt.tiktok.com/ZSYVDgMvU/
+https://vt.tiktok.com/ZSYVB4PXA/
 
-2.AdLibrary
-- Category: Adware
-- Description: This type of software is designed to aggressively display ads, often without user consent. While it doesn’t directly damage the system, it can disrupt the user experience and collect browsing data.
-- Danger: Medium, as it is more intrusive and can affect user privacy.
-- Attack Time: Typically immediate, with impacts felt as soon as it is installed.
 
-3.A.privacy.BankAnubisTrojan
-- Category: Trojan
-- Description: This is a type of Trojan designed to steal financial information, such as banking data. It may disguise itself as a legitimate app or be used to access sensitive data without the user’s knowledge.
-- Danger: High, as it can steal personal and financial information and potentially cause financial loss.
-- Attack Time: Immediate, as it can start stealing information right after installation.
 
-4.Android.PUA.DebugKey
-- Category: PUA (Potentially Unwanted Application)
-- Description: This type of application may not be harmful but can be disruptive or damaging by displaying ads or collecting data without proper consent.
-- Danger: Medium to low, depending on the actions of the app and how much it disrupts or collects data.
-- Attack Time: Not immediate, more of an annoyance than an active attack.
+𝗩𝗲𝗿𝘆 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀:
 
-Risk Summary:
+1. 𝗔.𝗽𝗿𝗶𝘃𝗮𝗰𝘆.𝗕𝗮𝗻𝗸𝗔𝗻𝘂𝗯𝗶𝘀𝗧𝗿𝗼𝗷𝗮𝗻
 
-High Risk: A.privacy.BankAnubisTrojan
-Medium Risk: Android.Riskware.TestKey.rA, AdLibrary, Android.PUA.DebugKey
-Low Risk: Android.Riskware.TestKey.rA, Android.PUA.DebugKey
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Trojan
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: A Trojan designed to steal banking information and personal user data.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Very High
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Immediately after installation.
+ • 𝗥𝗶𝘀𝗸: Very High
+
+2. 𝗧𝗿𝗼𝗷𝗮𝗻-𝗦𝗽𝘆.𝗔𝗻𝗱𝗿𝗼𝗶𝗱𝗢𝗦.𝗔𝗴𝗲𝗻𝘁
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Trojan Spy
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: A Trojan that secretly spies on user activity and sends sensitive data to attackers.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: High
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Immediately after installation.
+ • 𝗥𝗶𝘀𝗸: High
+
+3. 𝗧𝗿𝗼𝗷𝗮𝗻/𝗦𝗮𝗯𝘀𝗶𝗸.𝗙𝗟.𝗔!𝗺𝗹
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Trojan
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: This Trojan is usually a malicious script that can download and run other malware on the device.
+ •  𝗗𝗮𝗻𝗴𝗲𝗿: High
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Immediately after script execution.
+ • 𝗥𝗶𝘀𝗸: High
+
+---------------------------------------------
+
+𝗗𝗮𝗻𝗴𝗲𝗿:
+
+1. PUP/Android.Malct.1018863
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Potentially Unwanted Program (PUP)
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An unwanted program, often bundled with other app installations. Usually harmless but can be annoying and cause problems.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time to attack (often depends on the user running the program).
+ • 𝗥𝗶𝘀𝗸: Medium
+
+2. 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗔𝗯𝘂𝘀𝗲𝗱 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲 (𝗣𝗨𝗔)
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Potentially Unwanted Application (PUA)
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application that exploits a misused certificate for unauthorized purposes.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Can be immediate depending on the installed application.
+ • 𝗥𝗶𝘀𝗸: Medium
+
+3. 𝗢𝘁𝗵𝗲𝗿.𝗥𝗲𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻.𝟮
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Reputation-based Threat
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application with a bad reputation based on suspicious behavior.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Low to Medium
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time (depending on how the application is used).
+ • 𝗥𝗶𝘀𝗸: Low to Medium
+
+4. 𝗔𝗽𝗽𝗥𝗶𝘀𝗸
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Risky Application
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application identified as risky based on general behavioral analysis.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time.
+ • 𝗥𝗶𝘀𝗸: Medium
+
+5. 𝗔𝗻𝗱𝗿𝗼𝗶𝗱.𝗥𝗶𝘀𝗸𝘄𝗮𝗿𝗲.𝗧𝗲𝘀𝘁𝗞𝗲𝘆.𝗿𝗔
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Riskware
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application using a test key that should not be used in production, posing a risk of attacks.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Can be immediate or take time depending on usage.
+ • 𝗥𝗶𝘀𝗸: Medium
+
+6. 𝗔𝗻𝗱𝗿𝗼𝗶𝗱.𝗣𝗨𝗔.𝗗𝗲𝗯𝘂𝗴𝗞𝗲𝘆
+
+ • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Potentially Unwanted Application (PUA)
+ • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application using a debug key, often used by developers, but risky if distributed unauthorized.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Low to Medium
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time.
+ • 𝗥𝗶𝘀𝗸: Low to Medium
+
+---------------------------------------------
+
+𝗟𝗲𝘀𝘀 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀:
+
+1. 𝗔𝗱𝗟𝗶𝗯𝗿𝗮𝗿𝘆
+
+  • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Adware
+  • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An advertising library that   may be used in applications to display annoying ads.
+ • 𝗗𝗮𝗻𝗴𝗲𝗿: Low
+ • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time.
+ • 𝗥𝗶𝘀𝗸: Low
+
+
+
+
