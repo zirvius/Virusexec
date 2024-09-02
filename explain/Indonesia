@@ -7,8 +7,8 @@
 
 2. Android Abused Certificate (PUA)
    • Kategori: Potentially Unwanted Application (PUA)
-   • Deskripsi: Aplikasi yang memanfaatkan sertifikat yang disalahgunakan untuk tujuan yang tidak sah.
-   • Bahaya: Menengah
+   • Deskripsi: Aplikasi yang memanfaatkan sertifikat yang disalahgunakan untuk tujuan yang tidak sah. Meskipun tidak dirancang khusus untuk mencuri data, aplikasi ini bisa disalahgunakan untuk tujuan jahat termasuk pencurian data jika digunakan oleh penyerang.
+   • Bahaya: Rendah Hingga Menengah
    • Waktu Serangan: Bisa langsung tergantung pada aplikasi yang terinstal.
    • Resiko: Menengah
 
@@ -20,16 +20,16 @@
    • Resiko: Rendah hingga menengah
 
 4. AppRisk:Generisk
-   • Kategori: Aplikasi Berisiko
-   • Deskripsi: Aplikasi yang diidentifikasi sebagai berisiko berdasarkan analisis perilaku umum.
+   • Kategori: RiskWare
+   • Deskripsi: Aplikasi yang diidentifikasi sebagai berisiko berdasarkan analisis perilaku umum. Aplikasi semacam ini bisa digunakan untuk mencuri data jika dikendalikan oleh pihak yang tidak bertanggung jawab.
    • Bahaya: Menengah
    • Waktu Serangan: Butuh waktu.
    • Resiko: Menengah
 
 5. Android.Riskware.TestKey.rA
    • Kategori: Riskware
-   • Deskripsi: Aplikasi yang menggunakan kunci uji (test key) yang seharusnya tidak digunakan dalam produksi, berisiko terhadap serangan.
-   • Bahaya: Menengah
+   • Deskripsi: Aplikasi yang menggunakan kunci uji (test key) yang seharusnya tidak digunakan dalam produksi. Ini bisa dieksploitasi oleh penyerang untuk mencuri data jika aplikasi ini terdistribusi secara tidak sah.
+   • Bahaya: Rendah Hingga Menengah
    • Waktu Serangan: Bisa langsung atau butuh waktu tergantung pada penggunaannya.
    • Resiko: Menengah
 
