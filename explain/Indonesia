@@ -1,16 +1,23 @@
 1. PUP/Android.Malct.1018863
    • Kategori: Potentially Unwanted Program (PUP)
-   • Deskripsi: Program yang tidak diinginkan, sering kali disertakan dalam instalasi aplikasi lain. Biasanya tidak berbahaya, tetapi dapat mengganggu dan menyebabkan masalah.
-   • Bahaya: Menengah
+   • Deskripsi: Program yang tidak diinginkan, sering kali disertakan dalam instalasi aplikasi lain. Biasanya tidak berbahaya, tetapi dapat mengganggu dan menyebabkan masalah. Meskipun tidak dirancang untuk menjadi berbahaya, PUP seperti ini dapat mengumpulkan data pengguna, seperti kebiasaan browsing atau informasi lain, terutama jika terkait dengan iklan atau pemasaran.
+   • Bahaya: Rendah Hingga Menengah
    • Waktu Serangan: Butuh waktu untuk menyerang (sering kali tergantung pada pengguna yang menjalankan program).
-   • Resiko: Menengah
+   • Resiko: Rendah Hingga Menengah
+   • Kerusakan:
+     | Mengganggu kinerja perangkat dengan menampilkan iklan yang tidak diinginkan.
+     | Mengumpulkan data pengguna seperti kebiasaan browsing, yang dapat dijual ke pihak ketiga tanpa izin.
+     ╰ Mengarahkan pengguna ke situs web yang mungkin tidak aman.
 
 2. Android Abused Certificate (PUA)
    • Kategori: Potentially Unwanted Application (PUA)
    • Deskripsi: Aplikasi yang memanfaatkan sertifikat yang disalahgunakan untuk tujuan yang tidak sah. Meskipun tidak dirancang khusus untuk mencuri data, aplikasi ini bisa disalahgunakan untuk tujuan jahat termasuk pencurian data jika digunakan oleh penyerang.
    • Bahaya: Rendah Hingga Menengah
    • Waktu Serangan: Bisa langsung tergantung pada aplikasi yang terinstal.
-   • Resiko: Menengah
+   • Resiko: Rendah Hingga Menengah
+   • Kerusakan:
+     | Aplikasi yang menggunakan sertifikat yang disalahgunakan dapat mengakses perangkat dengan cara yang tidak sah.
+     ╰ Mungkin digunakan untuk memasang aplikasi lain yang berpotensi berbahaya tanpa sepengetahuan pengguna.
 
 3. Other:Android.Reputation.2
    • Kategori: Reputation-based threat
@@ -18,6 +25,9 @@
    • Bahaya: Rendah hingga menengah
    • Waktu Serangan: Butuh waktu (tergantung pada bagaimana aplikasi digunakan).
    • Resiko: Rendah hingga menengah
+   • Kerusakan:
+     | Mungkin menimbulkan risiko privasi dengan mengumpulkan data pengguna.
+     ╰ Dapat menyebabkan kinerja perangkat yang tidak stabil jika aplikasinya mencurigakan atau berperilaku tidak sesuai.
 
 4. AppRisk:Generisk
    • Kategori: RiskWare
@@ -25,6 +35,9 @@
    • Bahaya: Menengah
    • Waktu Serangan: Butuh waktu.
    • Resiko: Menengah
+   • Kerusakan:
+     | Aplikasi berisiko ini mungkin mengakses data sensitif atau memodifikasi pengaturan perangkat tanpa izin.
+     ╰ Bisa menyebabkan kerentanan keamanan yang dapat dimanfaatkan oleh malware lain.
 
 5. Android.Riskware.TestKey.rA
    • Kategori: Riskware
@@ -32,6 +45,9 @@
    • Bahaya: Rendah Hingga Menengah
    • Waktu Serangan: Bisa langsung atau butuh waktu tergantung pada penggunaannya.
    • Resiko: Menengah
+   • Kerusakan:
+     | Penggunaan kunci uji yang tidak tepat dapat memungkinkan aplikasi untuk dieksploitasi oleh pihak jahat.
+     ╰ Potensi peningkatan risiko keamanan jika aplikasi tersebut memiliki kerentanan.
 
 6. Android.PUA.DebugKey
    • Kategori: Potentially Unwanted Application (PUA)
@@ -39,6 +55,9 @@
    • Bahaya: Rendah hingga menengah
    • Waktu Serangan: Butuh waktu.
    • Resiko: Rendah hingga menengah
+   • Kerusakan:
+     | Aplikasi dengan kunci debug dapat dieksploitasi oleh penyerang untuk mengakses sistem atau data sensitif.
+     ╰ Dapat menyebabkan perangkat menjadi rentan terhadap serangan.
 
 7. AdLibrary:Generisk
    • Kategori: Adware
@@ -46,6 +65,9 @@
    • Bahaya: Rendah
    • Waktu Serangan: Butuh waktu.
    • Resiko: Rendah
+   • Kerusakan:
+     | Menampilkan iklan yang mengganggu, yang dapat memperlambat perangkat.
+     ╰ Mungkin mengarahkan pengguna ke situs web berbahaya atau mencurigakan.
 
 8. Trojan-Spy.AndroidOS.Agent
    • Kategori: Trojan Spy
@@ -53,6 +75,9 @@
    • Bahaya: Tinggi
    • Waktu Serangan: Langsung setelah terinstal.
    • Resiko: Tinggi
+   • Kerusakan:
+     | Memata-matai aktivitas pengguna dan mengirimkan data sensitif, seperti informasi pribadi atau kata sandi, ke penyerang.
+     ╰ Dapat menyebabkan pencurian identitas atau akses tidak sah ke akun pengguna.
 
 9. Trojan:Script/Sabsik.FL.A!ml
    • Kategori: Trojan
@@ -60,6 +85,9 @@
    • Bahaya: Tinggi
    • Waktu Serangan: Langsung setelah skrip dieksekusi.
    • Resiko: Tinggi
+   • Kerusakan: 
+     | Mengunduh dan menjalankan malware lain di perangkat, yang dapat menyebabkan kerusakan lebih lanjut. 
+     ╰ Mampu merusak sistem, mencuri data, atau menyebabkan malfungsi perangkat.
 
 10. A.privacy.BankAnubisTrojan
    • Kategori: Trojan
@@ -67,6 +95,9 @@
    • Bahaya: Sangat Tinggi
    • Waktu Serangan: Langsung setelah terinstal.
    • Resiko: Sangat Tinggi
+   • Kerusakan: 
+     | Mencuri informasi perbankan dan data pribadi pengguna, yang dapat mengakibatkan pencurian identitas atau kehilangan finansial. 
+     ╰ Dapat mengakses dan mentransfer dana dari rekening bank pengguna tanpa sepengetahuan mereka.
 
 ========================================
 Virus Paling Berbahaya:
