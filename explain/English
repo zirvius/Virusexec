@@ -5,9 +5,9 @@
    • Attack Time: Requires time to attack (often depending on the user running the program).
    • Risk Level: Medium
    • Damage:
-     - Disrupts device performance by displaying unwanted ads.
-     - Collects user data such as browsing habits, which can be sold to third parties without consent.
-     - Redirects users to potentially unsafe websites.
+     | Disrupts device performance by displaying unwanted ads.
+     | Collects user data such as browsing habits, which can be sold to third parties without consent.
+     ╰ Redirects users to potentially unsafe websites.
 
 2. Android Abused Certificate (PUA)
    • Category: Potentially Unwanted Application (PUA)
@@ -16,8 +16,8 @@
    • Attack Time: Can be immediate depending on the installed application.
    • Risk Level: Low to Medium
    • Damage:
-     - Applications using abused certificates can gain unauthorized access to the device.
-     - May be used to install other potentially harmful applications without the user's knowledge.
+     | Applications using abused certificates can gain unauthorized access to the device.
+     ╰ May be used to install other potentially harmful applications without the user's knowledge.
 
 3. Other:Android.Reputation.2
    • Category: Reputation-based threat
@@ -26,8 +26,8 @@
    • Attack Time: Requires time (depending on how the application is used).
    • Risk Level: Low to Medium
    • Damage:
-     - May pose privacy risks by collecting user data.
-     - Can cause unstable device performance if the application behaves suspiciously or inappropriately.
+     | May pose privacy risks by collecting user data.
+     ╰ Can cause unstable device performance if the application behaves suspiciously or inappropriately.
 
 4. AppRisk:Generisk
    • Category: RiskWare
@@ -36,8 +36,8 @@
    • Attack Time: Requires time.
    • Risk Level: Medium
    • Damage:
-     - Risky applications may access sensitive data or modify device settings without permission.
-     - Can cause security vulnerabilities that could be exploited by other malware.
+     | Risky applications may access sensitive data or modify device settings without permission.
+     ╰ Can cause security vulnerabilities that could be exploited by other malware.
 
 5. Android.Riskware.TestKey.rA
    • Category: Riskware
@@ -46,8 +46,8 @@
    • Attack Time: Can be immediate or require time depending on usage.
    • Risk Level: Medium
    • Damage:
-     - Improper use of test keys may allow the application to be exploited by malicious actors.
-     - Potential increase in security risk if the application has vulnerabilities.
+     | Improper use of test keys may allow the application to be exploited by malicious actors.
+     ╰ Potential increase in security risk if the application has vulnerabilities.
 
 6. Android.PUA.DebugKey
    • Category: Potentially Unwanted Application (PUA)
@@ -56,8 +56,8 @@
    • Attack Time: Requires time.
    • Risk Level: Low to Medium
    • Damage:
-     - Applications with debug keys can be exploited by attackers to access the system or sensitive data.
-     - May make the device vulnerable to attacks.
+     | Applications with debug keys can be exploited by attackers to access the system or sensitive data.
+     ╰ May make the device vulnerable to attacks.
 
 7. AdLibrary:Generisk
    • Category: Adware
@@ -66,8 +66,8 @@
    • Attack Time: Requires time.
    • Risk Level: Low
    • Damage:
-     - Displays disruptive ads that can slow down the device.
-     - May redirect users to potentially dangerous or suspicious websites.
+     | Displays disruptive ads that can slow down the device.
+     ╰ May redirect users to potentially dangerous or suspicious websites.
 
 8. Trojan-Spy.AndroidOS.Agent
    • Category: Trojan Spy
@@ -76,8 +76,8 @@
    • Attack Time: Immediate after installation.
    • Risk Level: High
    • Damage:
-     - Spies on user activity and sends sensitive data, such as personal information or passwords, to attackers.
-     - May lead to identity theft or unauthorized access to user accounts.
+     | Spies on user activity and sends sensitive data, such as personal information or passwords, to attackers.
+     ╰ May lead to identity theft or unauthorized access to user accounts.
 
 9. Trojan:Script/Sabsik.FL.A!ml
    • Category: Trojan
@@ -86,8 +86,8 @@
    • Attack Time: Immediate after the script is executed.
    • Risk Level: High
    • Damage:
-     - Downloads and executes other malware on the device, potentially causing further damage.
-     - Capable of corrupting the system, stealing data, or causing device malfunctions.
+     | Downloads and executes other malware on the device, potentially causing further damage.
+     ╰ Capable of corrupting the system, stealing data, or causing device malfunctions.
 
 10. A.privacy.BankAnubisTrojan
    • Category: Trojan
@@ -96,18 +96,18 @@
    • Attack Time: Immediate after installation.
    • Risk Level: Very High
    • Damage:
-     - Steals banking information and personal data, potentially leading to identity theft or financial loss.
-     - Can access and transfer funds from the user's bank account without their knowledge.
+     | Steals banking information and personal data, potentially leading to identity theft or financial loss.
+     ╰ Can access and transfer funds from the user's bank account without their knowledge.
 
----
+========================================
 
-**Most Dangerous Virus:**
+Most Dangerous Virus:
 
 • A.privacy.BankAnubisTrojan
 • Trojan-Spy.AndroidOS.Agent
 • Trojan/Sabsik.FL.A!ml
 
----
+----------------------------------------
 
 **Viruses with Medium Danger Level:**
 
@@ -118,13 +118,13 @@
 • Android.Riskware.TestKey.rA
 • Android.PUA.DebugKey
 
----
+----------------------------------------
 
 **Viruses with Low Danger Level:**
 
 • AdLibrary
 
----
+========================================
 
 **Viruses that Attack Immediately:**
 
@@ -132,7 +132,7 @@
 • Trojan/Sabsik.FL.A!ml
 • A.privacy.BankAnubisTrojan
 
----
+----------------------------------------
 
 **Viruses that Require Time to Attack:**
 
