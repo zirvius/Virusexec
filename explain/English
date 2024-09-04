@@ -1,93 +1,145 @@
-𝗩𝗲𝗿𝘆 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀:
-
-1. 𝗔.𝗽𝗿𝗶𝘃𝗮𝗰𝘆.𝗕𝗮𝗻𝗸𝗔𝗻𝘂𝗯𝗶𝘀𝗧𝗿𝗼𝗷𝗮𝗻
-
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Trojan
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: A Trojan designed to steal banking information and personal user data.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Very High
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Immediately after installation.
- • 𝗥𝗶𝘀𝗸: Very High
-
-2. 𝗧𝗿𝗼𝗷𝗮𝗻-𝗦𝗽𝘆.𝗔𝗻𝗱𝗿𝗼𝗶𝗱𝗢𝗦.𝗔𝗴𝗲𝗻𝘁
-
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Trojan Spy
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: A Trojan that secretly spies on user activity and sends sensitive data to attackers.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: High
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Immediately after installation.
- • 𝗥𝗶𝘀𝗸: High
-
-3. 𝗧𝗿𝗼𝗷𝗮𝗻/𝗦𝗮𝗯𝘀𝗶𝗸.𝗙𝗟.𝗔!𝗺𝗹
-
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Trojan
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: This Trojan is usually a malicious script that can download and run other malware on the device.
- •  𝗗𝗮𝗻𝗴𝗲𝗿: High
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Immediately after script execution.
- • 𝗥𝗶𝘀𝗸: High
-
--------------------------------------------
-
-𝗗𝗮𝗻𝗴𝗲𝗿:
-
 1. PUP/Android.Malct.1018863
+   • Category: Potentially Unwanted Program (PUP)
+   • Description: An unwanted program often bundled with other application installations. It is usually not harmful but can be disruptive and cause issues. While not designed to be malicious, PUPs like this can collect user data, such as browsing habits or other information, especially if associated with ads or marketing.
+   • Danger Level: Medium
+   • Attack Time: Requires time to attack (often depending on the user running the program).
+   • Risk Level: Medium
+   • Damage:
+     - Disrupts device performance by displaying unwanted ads.
+     - Collects user data such as browsing habits, which can be sold to third parties without consent.
+     - Redirects users to potentially unsafe websites.
 
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Potentially Unwanted Program (PUP)
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An unwanted program, often bundled with other app installations. Usually harmless but can be annoying and cause problems.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time to attack (often depends on the user running the program).
- • 𝗥𝗶𝘀𝗸: Medium
+2. Android Abused Certificate (PUA)
+   • Category: Potentially Unwanted Application (PUA)
+   • Description: An application that exploits a misused certificate for unauthorized purposes. While not specifically designed to steal data, this application can be misused for malicious purposes, including data theft if exploited by attackers.
+   • Danger Level: Low to Medium
+   • Attack Time: Can be immediate depending on the installed application.
+   • Risk Level: Low to Medium
+   • Damage:
+     - Applications using abused certificates can gain unauthorized access to the device.
+     - May be used to install other potentially harmful applications without the user's knowledge.
 
-2. 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗔𝗯𝘂𝘀𝗲𝗱 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲 (𝗣𝗨𝗔)
+3. Other:Android.Reputation.2
+   • Category: Reputation-based threat
+   • Description: An application with a poor reputation based on suspicious behavior.
+   • Danger Level: Low to Medium
+   • Attack Time: Requires time (depending on how the application is used).
+   • Risk Level: Low to Medium
+   • Damage:
+     - May pose privacy risks by collecting user data.
+     - Can cause unstable device performance if the application behaves suspiciously or inappropriately.
 
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Potentially Unwanted Application (PUA)
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application that exploits a misused certificate for unauthorized purposes.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Can be immediate depending on the installed application.
- • 𝗥𝗶𝘀𝗸: Medium
+4. AppRisk:Generisk
+   • Category: RiskWare
+   • Description: An application identified as risky based on general behavior analysis. Such applications can be used to steal data if controlled by malicious actors.
+   • Danger Level: Medium
+   • Attack Time: Requires time.
+   • Risk Level: Medium
+   • Damage:
+     - Risky applications may access sensitive data or modify device settings without permission.
+     - Can cause security vulnerabilities that could be exploited by other malware.
 
-3. 𝗢𝘁𝗵𝗲𝗿.𝗥𝗲𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻.𝟮
+5. Android.Riskware.TestKey.rA
+   • Category: Riskware
+   • Description: An application that uses a test key that should not be used in production. This could be exploited by attackers to steal data if the application is distributed illegally.
+   • Danger Level: Low to Medium
+   • Attack Time: Can be immediate or require time depending on usage.
+   • Risk Level: Medium
+   • Damage:
+     - Improper use of test keys may allow the application to be exploited by malicious actors.
+     - Potential increase in security risk if the application has vulnerabilities.
 
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Reputation-based Threat
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application with a bad reputation based on suspicious behavior.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Low to Medium
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time (depending on how the application is used).
- • 𝗥𝗶𝘀𝗸: Low to Medium
+6. Android.PUA.DebugKey
+   • Category: Potentially Unwanted Application (PUA)
+   • Description: An application using a debug key, often used by developers, but risky if distributed illegally.
+   • Danger Level: Low to Medium
+   • Attack Time: Requires time.
+   • Risk Level: Low to Medium
+   • Damage:
+     - Applications with debug keys can be exploited by attackers to access the system or sensitive data.
+     - May make the device vulnerable to attacks.
 
-4. 𝗔𝗽𝗽𝗥𝗶𝘀𝗸
+7. AdLibrary:Generisk
+   • Category: Adware
+   • Description: An ad library that may be used within applications to display disruptive ads.
+   • Danger Level: Low
+   • Attack Time: Requires time.
+   • Risk Level: Low
+   • Damage:
+     - Displays disruptive ads that can slow down the device.
+     - May redirect users to potentially dangerous or suspicious websites.
 
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Risky Application
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application identified as risky based on general behavioral analysis.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time.
- • 𝗥𝗶𝘀𝗸: Medium
+8. Trojan-Spy.AndroidOS.Agent
+   • Category: Trojan Spy
+   • Description: A Trojan that secretly spies on user activity and sends sensitive data to attackers.
+   • Danger Level: High
+   • Attack Time: Immediate after installation.
+   • Risk Level: High
+   • Damage:
+     - Spies on user activity and sends sensitive data, such as personal information or passwords, to attackers.
+     - May lead to identity theft or unauthorized access to user accounts.
 
-5. 𝗔𝗻𝗱𝗿𝗼𝗶𝗱.𝗥𝗶𝘀𝗸𝘄𝗮𝗿𝗲.𝗧𝗲𝘀𝘁𝗞𝗲𝘆.𝗿𝗔
+9. Trojan:Script/Sabsik.FL.A!ml
+   • Category: Trojan
+   • Description: This Trojan is usually a malicious script that can download and execute other malware on the device.
+   • Danger Level: High
+   • Attack Time: Immediate after the script is executed.
+   • Risk Level: High
+   • Damage:
+     - Downloads and executes other malware on the device, potentially causing further damage.
+     - Capable of corrupting the system, stealing data, or causing device malfunctions.
 
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Riskware
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application using a test key that should not be used in production, posing a risk of attacks.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Medium
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Can be immediate or take time depending on usage.
- • 𝗥𝗶𝘀𝗸: Medium
+10. A.privacy.BankAnubisTrojan
+   • Category: Trojan
+   • Description: A Trojan designed to steal banking information and personal data from users
+   • Danger Level: Very High
+   • Attack Time: Immediate after installation.
+   • Risk Level: Very High
+   • Damage:
+     - Steals banking information and personal data, potentially leading to identity theft or financial loss.
+     - Can access and transfer funds from the user's bank account without their knowledge.
 
-6. 𝗔𝗻𝗱𝗿𝗼𝗶𝗱.𝗣𝗨𝗔.𝗗𝗲𝗯𝘂𝗴𝗞𝗲𝘆
+---
 
- • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Potentially Unwanted Application (PUA)
- • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An application using a debug key, often used by developers, but risky if distributed unauthorized.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Low to Medium
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time.
- • 𝗥𝗶𝘀𝗸: Low to Medium
+**Most Dangerous Virus:**
 
--------------------------------------------
+• A.privacy.BankAnubisTrojan
+• Trojan-Spy.AndroidOS.Agent
+• Trojan/Sabsik.FL.A!ml
 
-𝗟𝗲𝘀𝘀 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀:
+---
 
-1. 𝗔𝗱𝗟𝗶𝗯𝗿𝗮𝗿𝘆
+**Viruses with Medium Danger Level:**
 
-  • 𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: Adware
-  • 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: An advertising library that   may be used in applications to display annoying ads.
- • 𝗗𝗮𝗻𝗴𝗲𝗿: Low
- • 𝗔𝘁𝘁𝗮𝗰𝗸 𝗧𝗶𝗺𝗲: Takes time.
- • 𝗥𝗶𝘀𝗸: Low
+• PUP/Android.Malct.1018863
+• Android Abused Certificate (PUA)
+• Other.Reputation.2
+• AppRisk
+• Android.Riskware.TestKey.rA
+• Android.PUA.DebugKey
 
+---
 
+**Viruses with Low Danger Level:**
 
+• AdLibrary
 
+---
+
+**Viruses that Attack Immediately:**
+
+• Trojan-Spy.AndroidOS.Agent
+• Trojan/Sabsik.FL.A!ml
+• A.privacy.BankAnubisTrojan
+
+---
+
+**Viruses that Require Time to Attack:**
+
+• PUP/Android.Malct.1018863
+• Android.Riskware.TestKey.rA
+• Android Abused Certificate (PUA)
+• Android.PUA.DebugKey
+• Other.Reputation.2
+• AdLibrary
+• AppRisk
