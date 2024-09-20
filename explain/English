@@ -40,7 +40,7 @@
      ╰ Can cause security vulnerabilities that could be exploited by other malware.
 
 5. Android.Riskware.TestKey.rA
-   • Category: Riskware
+   • Category: Riskware <---> Trojan
    • Description: An application that uses a test key that should not be used in production. This could be exploited by attackers to steal data if the application is distributed illegally.
    • Danger Level: Low ---> Medium ---> High
    • Attack Time: Can be immediate or require time depending on usage.
