@@ -42,9 +42,9 @@
 5. Android.Riskware.TestKey.rA
    • Category: Riskware
    • Description: An application that uses a test key that should not be used in production. This could be exploited by attackers to steal data if the application is distributed illegally.
-   • Danger Level: Low to Medium
+   • Danger Level: Low to Medium to High
    • Attack Time: Can be immediate or require time depending on usage.
-   • Risk Level: Medium
+   • Risk Level: Medium to High
    • Damage:
      | Improper use of test keys may allow the application to be exploited by malicious actors.
      ╰ Potential increase in security risk if the application has vulnerabilities.
