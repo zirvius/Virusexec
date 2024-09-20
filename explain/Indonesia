@@ -47,8 +47,10 @@
    • Waktu Serangan: Bisa langsung atau butuh waktu tergantung pada penggunaannya.
    • Resiko: Menengah ---> Tinggi
    • Kerusakan:
-     | Penggunaan kunci uji yang tidak tepat dapat memungkinkan aplikasi untuk dieksploitasi oleh pihak jahat.
-     ╰ Potensi peningkatan risiko keamanan jika aplikasi tersebut memiliki kerentanan.
+     | Pencurian Data: Trojan ini dapat mencuri informasi sensitif seperti kredensial login, informasi kartu kredit, dan data pribadi lainnya.   
+     | Pelacakan Aktivitas: Malware ini juga dapat melacak aktivitas pengguna, termasuk situs web yang dikunjungi dan aplikasi yang digunakan.   
+     | kontrol Jarak Jauh: Penyerang dapat mengendalikan perangkat dari jarak jauh, memungkinkan mereka untuk memasang malware tambahan atau mencuri lebih banyak data.   
+     ╰ Penggunaan kunci uji yang tidak tepat: Potensi peningkatan risiko keamanan jika aplikasi tersebut rentan terhadap modifikasi oleh pihak ketiga. 
 
 6. Android.PUA.DebugKey
    • Kategori: Potentially Unwanted Application (PUA)
