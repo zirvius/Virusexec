@@ -46,8 +46,10 @@
    • Attack Time: Can be immediate or require time depending on usage.
    • Risk Level: Medium ---> High
    • Damage:
-     | Improper use of test keys may allow the application to be exploited by malicious actors.
-     ╰ Potential increase in security risk if the application has vulnerabilities.
+     | Data Theft: This trojan can steal sensitive information such as login credentials, credit card details, and other personal data.
+     | Activity Tracking: This malware can also track user activity, including websites visited and applications used.
+     | Remote Control: Attackers can remotely control the infected device, allowing them to install additional malware or steal more data.
+     ╰ Improper Use of Test Key: Increased security risk if the application is vulnerable to modification by third parties.
 
 6. Android.PUA.DebugKey
    • Category: Potentially Unwanted Application (PUA)
