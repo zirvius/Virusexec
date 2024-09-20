@@ -40,7 +40,7 @@
      ╰ Bisa menyebabkan kerentanan keamanan yang dapat dimanfaatkan oleh malware lain.
 
 5. Android.Riskware.TestKey.rA
-   • Kategori: Riskware
+   • Kategori: Riskware <---> Trojan
    • Deskripsi: Aplikasi yang menggunakan kunci uji (test key) yang seharusnya tidak digunakan dalam produksi. Ini bisa dieksploitasi oleh penyerang untuk mencuri data jika aplikasi ini terdistribusi secara tidak sah.
    • Bahaya: Rendah ---> Menengah ---> Tinggi
    • Waktu Serangan: Bisa langsung atau butuh waktu tergantung pada penggunaannya.
