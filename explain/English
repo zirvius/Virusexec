@@ -71,7 +71,18 @@
      | Displays disruptive ads that can slow down the device.
      ╰ May redirect users to potentially dangerous or suspicious websites.
 
-8. Trojan-Spy.AndroidOS.Agent
+8. A Variant Of Android/Spy.Agent.CCO 
+   • Category: Spyware
+   • Description: This type of malware is designed to collect information from the device without the user's knowledge, This virus can monitor user activity, such as text messages, calls, and location information. In addition, these viruses may collect personal data and send it to a server controlled by the attacker.
+   • Hazard: High
+   • Attack Time: These viruses are often spread through unofficial apps or links sent through suspicious messages, emails, or websites.
+   • Risk: High
+   • Damage:
+     | Threatening user privacy by stealing personal data.
+     | Can be used for fraud or identity theft.
+     ╰ Capable of damaging the normal functioning of the device, reducing performance, and causing further safety issues.
+
+9. Trojan-Spy.AndroidOS.Agent
    • Category: Trojan Spy
    • Description: A Trojan that secretly spies on user activity and sends sensitive data to attackers.
    • Danger Level: High
@@ -81,7 +92,7 @@
      | Spies on user activity and sends sensitive data, such as personal information or passwords, to attackers.
      ╰ May lead to identity theft or unauthorized access to user accounts.
 
-9. Trojan:Script/Sabsik.FL.A!ml
+10. Trojan:Script/Sabsik.FL.A!ml
    • Category: Trojan
    • Description: This Trojan is usually a malicious script that can download and execute other malware on the device.
    • Danger Level: High
@@ -91,7 +102,7 @@
      | Downloads and executes other malware on the device, potentially causing further damage.
      ╰ Capable of corrupting the system, stealing data, or causing device malfunctions.
 
-10. A.privacy.BankAnubisTrojan
+11. A.privacy.BankAnubisTrojan
    • Category: Trojan
    • Description: A Trojan designed to steal banking information and personal data from users
    • Danger Level: Very High
