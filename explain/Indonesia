@@ -72,7 +72,18 @@
      | Menampilkan iklan yang mengganggu, yang dapat memperlambat perangkat.
      ╰ Mungkin mengarahkan pengguna ke situs web berbahaya atau mencurigakan.
 
-8. Trojan-Spy.AndroidOS.Agent
+8. A Variant Of Android/Spy.Agent.CCO 
+   • Kategori: Spyware
+   • Deskripsi: Malware jenis ini dirancang untuk mengumpulkan informasi dari perangkat tanpa sepengetahuan pengguna, Virus ini dapat memantau aktivitas pengguna, seperti pesan teks, panggilan, dan informasi lokasi. Selain itu, virus ini mungkin mengumpulkan data pribadi dan mengirimkannya ke server yang dikendalikan oleh penyerang.
+   • Bahaya: Tinggi
+   • Waktu Serangan: Virus ini sering kali menyebar melalui aplikasi yang tidak resmi atau tautan yang dikirim melalui pesan, email, atau situs web yang mencurigakan.
+   • Resiko: Tinggi
+   • Kerusakan:
+     | Mengancam privasi pengguna dengan mencuri data pribadi.
+     | Dapat digunakan untuk penipuan atau pencurian identitas.
+     ╰ Mampu merusak fungsi normal perangkat, mengurangi kinerja, dan menyebabkan masalah keamanan lebih lanjut.
+
+9. Trojan-Spy.AndroidOS.Agent
    • Kategori: Trojan Spy
    • Deskripsi: Trojan yang secara diam-diam memata-matai aktivitas pengguna dan mengirimkan data sensitif ke penyerang.
    • Bahaya: Tinggi
@@ -82,7 +93,7 @@
      | Memata-matai aktivitas pengguna dan mengirimkan data sensitif, seperti informasi pribadi atau kata sandi, ke penyerang.
      ╰ Dapat menyebabkan pencurian identitas atau akses tidak sah ke akun pengguna.
 
-9. Trojan:Script/Sabsik.FL.A!ml
+10. Trojan:Script/Sabsik.FL.A!ml
    • Kategori: Trojan
    • Deskripsi: Trojan ini biasanya berupa skrip berbahaya yang dapat mengunduh dan menjalankan malware lain di perangkat.
    • Bahaya: Tinggi
@@ -92,7 +103,7 @@
      | Mengunduh dan menjalankan malware lain di perangkat, yang dapat menyebabkan kerusakan lebih lanjut. 
      ╰ Mampu merusak sistem, mencuri data, atau menyebabkan malfungsi perangkat.
 
-10. A.privacy.BankAnubisTrojan
+11. A.privacy.BankAnubisTrojan
    • Kategori: Trojan
    • Deskripsi: Trojan yang dirancang untuk mencuri informasi perbankan dan data pribadi pengguna.
    • Bahaya: Sangat Tinggi
