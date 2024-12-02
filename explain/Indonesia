@@ -113,6 +113,17 @@
      | Mencuri informasi perbankan dan data pribadi pengguna, yang dapat mengakibatkan pencurian identitas atau kehilangan finansial. 
      ╰ Dapat mengakses dan mentransfer dana dari rekening bank pengguna tanpa sepengetahuan mereka.
 
+12. Trojan:Script/Wacatac.B!ml
+   • Kategori: Trojan
+   • Deskripsi: Trojan ini berbentuk skrip berbahaya yang sering digunakan untuk mencuri data pengguna, seperti kredensial login atau informasi sensitif, serta membuka celah keamanan pada perangkat.
+   • Bahaya: Tinggi
+   • Waktu Serangan: Langsung setelah skrip diakses atau dieksekusi.
+   • Resiko: Tinggi
+   • Kerusakan:
+   | Dapat mencuri informasi sensitif, membuka akses bagi malware tambahan, dan menurunkan performa perangkat.
+   ╰ Berpotensi menyebabkan pencurian data, kerusakan sistem, dan akses ilegal oleh penyerang.
+
+
 ========================================
 Virus Paling Berbahaya:
 
