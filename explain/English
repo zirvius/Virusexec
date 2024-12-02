@@ -112,6 +112,16 @@
      | Steals banking information and personal data, potentially leading to identity theft or financial loss.
      ╰ Can access and transfer funds from the user's bank account without their knowledge.
 
+12. Trojan:Script/Wacatac.B!ml
+   • Category: Trojan
+   • Description: This Trojan appears as a malicious script often used to steal user data, such as login credentials or sensitive information, while also creating security vulnerabilities on the device.
+   • Threat Level: High
+   • Attack Timing: Immediately after the script is accessed or executed.
+   • Risk: High
+   • Damage:
+     | Can steal sensitive information, allow additional malware access, and degrade device performance.
+     ╰ Potentially causes data theft, system damage, and unauthorized access by attackers.
+
 ========================================
 
 Most Dangerous Virus:
